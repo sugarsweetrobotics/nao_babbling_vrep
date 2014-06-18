@@ -1,0 +1,6 @@
+BabblingGenerator: {description: '', git: 'https://github.com/sugarsweetrobotics/BabblingGenerator.git',
+  hash: 8afef3d6922635b7a0c3e69dfbf5424fba9e5a89}
+DoubleSeqLogger: {description: '', git: 'https://github.com/sugarsweetrobotics/DoubleSeqLogger.git',
+  hash: 8575f04d7c062c858aa4f0d5e6b2e80e35147223}
+SimulationManager: {description: '', git: 'https://github.com/ogata-lab/SimulationManager.git',
+  hash: bf872154fe0a659586a0e6242458f039f8d26bb0}
